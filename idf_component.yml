@@ -1,3 +1,6 @@
 version: "0.0.1"
 description: "This is a test component"
 url: "https://github.com/bygreencn/esp32-arduino-AgileStateMachine"  
+dependencies:
+  idf: ">=5.0"
+  espressif/arduino-esp32: ">=3.1.3"
